@@ -13,12 +13,12 @@ First of all, you need a [GitHub account](https://github.com/join) so you can [f
 
 You'll also need [git](http://git-scm.com/) to clone your forked repo, as well as [GHC & Cabal](https://www.haskell.org/platform/) to build and test your solutions.
 
-Clone the repo via
+Clone the repo like this:
 ```
-git clone <uri-to-your-repo>
+git clone <uri-to-repo-on-github>
 ```
 
-Then from withing the repo's directory, execute
+To install the depencencies of the project, execute:
 ```
 cabal install --dependencies-only
 ```
@@ -27,7 +27,7 @@ cabal install --dependencies-only
 
 Your task is to replace the ```undefined``` values such that the tests pass.
 
-You can execute the tests for the first ten problems using
+Here's how to execute the tests for the first ten problems:
 ```
 cabal test problems-01-10
 ```
