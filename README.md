@@ -9,7 +9,7 @@ This is an adaptation of [Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~m
 
 ## How to install?
 
-First of all, you need a [GitHub account](https://github.com/join) so you can [fork this repo](https://github.com/mkovacs/99-haskell/fork).
+First of all, you need a [GitHub account](https://github.com/join) so you can [fork this repo](https://github.com/mkovacs/99-haskell/fork). If you don't feel like signing up, you can also just clone this repo, but then you won't be able to push your changes.
 
 You'll also need [git](http://git-scm.com/) to clone your forked repo, as well as [GHC & Cabal](https://www.haskell.org/platform/) to build and test your solutions.
 
