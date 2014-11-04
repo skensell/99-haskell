@@ -1,7 +1,7 @@
 99-haskell
 ==========
 
-Ninety-Nine Haskell Problems
+# Ninety-Nine Haskell Problems
 
 ## What is this?
 
