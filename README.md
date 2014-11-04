@@ -11,7 +11,7 @@ This is an adaptation of [Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~m
 
 First of all, you need a [GitHub account](https://github.com/) so you can fork this repo.
 
-You'll also need git to clone your forked repo, as well as GHC & Cabal to build and test your solutions.
+You'll also need [git](http://git-scm.com/) to clone your forked repo, as well as [GHC & Cabal](https://www.haskell.org/platform/) to build and test your solutions.
 
 Clone the repo via
 ```
